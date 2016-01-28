@@ -1,0 +1,13 @@
+
+#bandeau {      background-repeat: no-repeat;
+                background-size: cover;
+                width:100%;
+                height:300px;
+                } /* dimension bandeau image*/
+
+#mytable{width: 40%;} /*taille du tableau*/
+
+th{text-align: center;
+  font-size: 3em;
+  /*color: 133 188 27*/
+  color: rgb(133,188, 27);}
